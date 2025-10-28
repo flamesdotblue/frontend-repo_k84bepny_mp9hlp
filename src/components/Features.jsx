@@ -1,4 +1,4 @@
-import { CheckCircle2, ChartBar, Calendar, Shield } from 'lucide-react';
+import { CheckCircle2, BarChart3, Calendar, Shield } from 'lucide-react';
 
 const features = [
   {
@@ -9,7 +9,7 @@ const features = [
   {
     title: 'Real-time scoring',
     desc: 'Score leads by fit and intent so reps prioritize the best opportunities.',
-    icon: ChartBar,
+    icon: BarChart3,
   },
   {
     title: 'Calendar integration',
